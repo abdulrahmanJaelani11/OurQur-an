@@ -1,0 +1,44 @@
+{
+    "status":200,
+    "message":"Successfully tracked package",
+    "data": {
+        "summary":{
+            "awb":"JX0948507956",
+            "courier":"J&T Express",
+            "service":"",
+            "status":"ON PROGRESS",
+            "date":"2022-04-28 02:49:24",
+            "desc":"",
+            "amount":"",
+            "weight":""
+            },
+        "detail": {
+            "origin":"",
+            "destination":"",
+            "shipper":"",
+            "receiver":""
+        },
+        "history":[
+            {
+                "date":"2022-04-28 02:49:24",
+                "desc":"TELAH BERANGKAT: PUSAT TRANSIT [JAKARTA] MENUJU [BANDUNG]",
+                "location":"JAKARTA"
+            },
+            {
+                "date":"2022-04-28 02:48:13",
+                "desc":"TELAH TIBA: TRANSIT CENTER [JAKARTA] DARI [KAMAL_MUARA]",
+                "location":"JAKARTA"
+            },
+            {
+                "date":"2022-04-28 01:42:36",
+                "desc":"TELAH DIAMBIL: DROP POINT [JAKARTA] (DIPROSES OLEH: CP_TANAH _MERAH)",
+                "location":"JAKARTA"
+            },
+            {
+                "date":"2022-04-28 01:22:51",
+                "desc":"TELAH BERANGKAT: PUSAT TRANSIT [JAKARTA] MENUJU [JAKARTA]",
+                "location":"JAKARTA"
+            }
+        ]
+    }
+}
